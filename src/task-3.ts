@@ -4,7 +4,7 @@ const ratings: number[] = [4.5, 3.8, 5];
 
 interface Product {
     id: number;
-    title: string
+    title: string;
 }
 
 const products: Product[] = [
